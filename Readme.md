@@ -3,6 +3,9 @@
 
 ### Accepted at ECCV 2024 (main conference)
 
+![Poster](https://raw.githubusercontent.com/fdbtrs/AdaDistill/main/img/Poster_thumbnail.png)
+
+
 ## Installation
 - The code is running using Pytorch 1.7
 - Download the requirements from the file requirement.txt
