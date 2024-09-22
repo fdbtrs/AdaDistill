@@ -2,7 +2,7 @@
 ### AdaDistill: Adaptive Knowledge Distillation for Deep Face Recognition
 
 ### Accepted at ECCV 2024 (main conference)
-[Arxiv](https://arxiv.org/abs/2407.01332)
+### [Arxiv](https://arxiv.org/abs/2407.01332)
 
 ![Poster](https://raw.githubusercontent.com/fdbtrs/AdaDistill/main/img/Poster.png)
 
