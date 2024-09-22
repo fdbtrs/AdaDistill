@@ -3,7 +3,7 @@
 
 ### Accepted at ECCV 2024 (main conference)
 
-![Poster](https://raw.githubusercontent.com/fdbtrs/AdaDistill/main/img/Poster_thumbnail.png)
+![Poster](https://raw.githubusercontent.com/fdbtrs/AdaDistill/main/img/Poster.png)
 
 
 ## Installation
