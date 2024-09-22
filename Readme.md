@@ -2,6 +2,7 @@
 #### AdaDistill: Adaptive Knowledge Distillation for Deep Face Recognition
 
 ### Accepted at ECCV 2024 (main conference)
+[Arxiv](https://arxiv.org/abs/2407.01332)
 
 ![Poster](https://raw.githubusercontent.com/fdbtrs/AdaDistill/main/img/Poster.png)
 
@@ -44,3 +45,30 @@
 
 
 ### <font color="green">A trained MobileFaceNet model with AdaArcDsitll is provided under output/AdaDistill/MFN_AdaArcDistill_backbone.pth</font>
+
+
+
+
+If you use any of the code provided in this repository, please cite the following paper:
+## Citation
+```
+@InProceedings{Boutros_2024_ECCV,
+    author    = {Fadi Boutros, Vitomir Štruc, Naser Damer},
+    title     = {AdaDistill: Adaptive Knowledge Distillation for Deep Face Recognition},
+    booktitle = {Computer Vision - {ECCV} 2024 -18th European Conference on Computer Vision, Milano, Italy, September 29- 4 October, 2024 },
+    month     = {October},
+    year      = {2024},
+    pages     = {}
+}
+
+
+```
+
+
+## License
+
+```
+This project is licensed under the terms of the Attribution-NonCommercial-ShareAlike 4.0 
+International (CC BY-NC-SA 4.0) license. 
+Copyright (c) 2021 Fraunhofer Institute for Computer Graphics Research IGD Darmstadt
+```
