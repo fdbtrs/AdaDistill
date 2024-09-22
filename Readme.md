@@ -1,5 +1,5 @@
-## This is the official repository of the paper ECCV 2024:
-#### AdaDistill: Adaptive Knowledge Distillation for Deep Face Recognition
+## This is the official repository of the paper:
+### AdaDistill: Adaptive Knowledge Distillation for Deep Face Recognition
 
 ### Accepted at ECCV 2024 (main conference)
 [Arxiv](https://arxiv.org/abs/2407.01332)
